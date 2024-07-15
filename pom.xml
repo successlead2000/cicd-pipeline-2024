@@ -30,14 +30,6 @@
 	</properties>
 
 	<dependencies>
-
-		<dependency>
-                   <groupId>com.insta</groupId>
-                   <artifactId>maven-standalone-app</artifactId>
-                   <version>1.0.0</version>
-                   <type>jar.sha1</type>
-                </dependency>
-		
 		<dependency>
 			<groupId>org.json</groupId>
 			<artifactId>json</artifactId>
